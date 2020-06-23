@@ -1,0 +1,20 @@
+.sablon { width: 740px; height: auto ;margin: 30px auto ; background:#fff; padding: 0 0 10px 0; border-radius: 5px}
+.logo { width: 80px; height: 100px; margin: 10px 0 0 10px; float: left}
+.banner {width: 630px; height: 80px; float: left; margin: 10px 0 0 10px; border-radius: 15px; background-color: aqua;text-align: center;padding: 20px 0 0 0; font: bold 50px "tahoma"}
+.menu {width: 560px; height: 32px; margin: 10px 0 0 10px ; float: left ; border-radius: 15px; background-color: cyan; padding: 15px 0 0 0}
+.sosyal {width: 150px; height: 47px; float:left; margin: 10px 0 10px 10px ; border-radius: 15px; background-color: #fff}
+.manset {width: 710px; height: 390px; margin: 20px 10px 10px 10px; clear: both ; border-radius: 15px;background-color: darkseagreen; padding: 10px}
+.surmanset {width: 233px; height: 80px; margin: 0 0 10px 10px; float: left ; border-radius: 15px ; background-color: palegreen;padding: 60px 0 0 0}
+.iletisim {width: 720px; height: 65px; clear: both; margin: 0 10px 10px 10px ; border-radius: 15px; background-color: seagreen }
+.menu ul{margin: 0;padding: 0;list-style: none}
+.menu ul li{float: left}
+.menu ul li a{display: block; border-radius: 0 0 15px 15px; width: 140px; height: 32px; text-decoration: none; text-align: center; font: bold 15px "tahoma"; color: #000; margin: 0;padding: 0}
+.menu ul li a:hover {text-decoration: underline; background: #599E7A} 
+.hakkimda {float:left; font: normal 15px "tahoma"; width: 415px; height: 240px; padding: 10px}
+.profil {float:left; border-radius: 15px; width: 275px; height: 250px}
+.surmanset a{text-decoration: none; color: #000}
+.surmanset:hover{text-decoration: underline; color: "red"}
+
+
+
+
